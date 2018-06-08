@@ -1,0 +1,2 @@
+# ios-localizable
+ios-localizable
